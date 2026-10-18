@@ -1,0 +1,21 @@
+原教程
+
+【YOLOv13教程：YOLOv13环境配置，超详细适合0基础小白快速上手 - CSDN App】https://blog.csdn.net/qq_67105081/article/details/148880093?sharetype=blog&shareId=148880093&sharerefer=APP&sharesource=j__jay&sharefrom=link
+
+【50系显卡训练深度学习YOLO等算法报错的解决方法 - CSDN App】https://blog.csdn.net/qq_67105081/article/details/151256777?sharetype=blog&shareId=151256777&sharerefer=APP&sharesource=j__jay&sharefrom=link
+
+【YOLOv13教程：YOLOv13训练模型，超详细适合0基础小白快速上手 - CSDN App】https://blog.csdn.net/qq_67105081/article/details/149272857?sharetype=blog&shareId=149272857&sharerefer=APP&sharesource=j__jay&sharefrom=link
+
+
+数据集提供者
+
+https://data.mendeley.com/datasets/tp95cdvgm8/1
+https://data.mendeley.com/datasets/zndzygc3p3/1
+https://github.com/cuilimeng/CrackForest-dataset 
+
+https://data.mendeley.com/public-api/zip/8b27pdcxv7/download/1
+bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/RDD2022.zip
+
+手机视频流链接软件
+
+https://github.com/DigitallyRefined/android-ip-camera/releases

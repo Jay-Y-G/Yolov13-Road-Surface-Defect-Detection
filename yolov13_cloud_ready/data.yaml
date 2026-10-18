@@ -1,0 +1,7 @@
+path: ./datasets/VOCdevkit
+train: train/images
+val: val/images
+test: test/images
+
+nc: 3
+names: ['crack', 'pothole', 'filled_pothole']
